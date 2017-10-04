@@ -79,7 +79,7 @@ end
 group :development, :test do
   gem 'pry'
   gem 'pry-rails'
-  gem 'pry-byebug'
+  gem 'pry-byebug', '~> 3.4.3'
   gem 'pry-rescue'
   gem 'coveralls', require: false
 end
