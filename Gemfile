@@ -80,6 +80,7 @@ group :development, :test do
   gem 'pry'
   gem 'pry-rails'
   gem 'pry-byebug', '~> 3.4.3'
+  gem 'byebug', '9.0.6'
   gem 'pry-rescue'
   gem 'coveralls', require: false
 end
